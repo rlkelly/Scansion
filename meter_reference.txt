@@ -1,0 +1,12 @@
+pyrrhus         - -
+iamb            - +
+trochee         + -
+spondee         + +
+tribrach        - - -
+dactyl          + - -
+amphibrach      - + -
+anapest         - - +
+bacchius        - + +
+anitbacchius    + + -
+cretic          + - +
+molossus        + + +
